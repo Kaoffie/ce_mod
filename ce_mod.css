@@ -43,13 +43,13 @@ input[type="text"], select {
     font-size: 0.875rem;
 }
 .button:focus, .button:hover {
-    background-color: #5970C1;
+    background-color: #C44842;
 }
 .button-group a {
     width: 5.5rem;
 }
 .bh {
-    color: #e74c3c;
+    color: #E74C3C;
 }
 .show-for-small-only > li > a {
     font-size: 1.375rem;
